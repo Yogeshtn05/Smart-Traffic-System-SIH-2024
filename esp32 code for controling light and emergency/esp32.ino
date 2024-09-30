@@ -2,9 +2,9 @@
 #include <PubSubClient.h>     
 #include <math.h>
 
-const char* ssid = "POCO F6";
-const char* password = "1234567778";
-const char* mqtt_server = "91.121.93.94";  
+const char* ssid = "your wifi name";
+const char* password = "your wifi pass";
+const char* mqtt_server = "your server";  
 
 #define PIN_4 4    // GPIO 4
 #define PIN_5 5    // GPIO 5
